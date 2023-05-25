@@ -1,4 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/haiyanzhang/Desktop/code/Topu_Tree
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/haiyanzhang/Desktop/code/Topu_Tree/cmake-build-debug
